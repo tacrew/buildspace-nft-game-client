@@ -50,9 +50,10 @@ const App = () => {
           <p className="header gradient-text">⚔️ Metaverse Slayer ⚔️</p>
           <p className="sub-text">Team up to protect the Metaverse!</p>
           <div className="connect-wallet-container">
-            <img
-              src="https://64.media.tumblr.com/tumblr_mbia5vdmRd1r1mkubo1_500.gifv"
+            <video
+              src="https://i.imgur.com/NUyttbn.mp4"
               alt="Monty Python Gif"
+              type="video/mp4"
             />
             <button
               className="cta-button connect-wallet-button"
