@@ -33,6 +33,7 @@ const App = () => {
         method: "eth_requestAccounts",
       });
       setCurrentAccount(accounts[0]);
+      console.log(currentAccount);
     } catch (error) {
       console.log(error);
     }
